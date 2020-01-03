@@ -1,0 +1,8 @@
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/bin/Debug/netcoreapp2.2/Core.deps.json
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/bin/Debug/netcoreapp2.2/Core.dll
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/bin/Debug/netcoreapp2.2/Core.pdb
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/obj/Debug/netcoreapp2.2/Core.csprojAssemblyReference.cache
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfoInputs.cache
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfo.cs
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/obj/Debug/netcoreapp2.2/Core.dll
+/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/obj/Debug/netcoreapp2.2/Core.pdb

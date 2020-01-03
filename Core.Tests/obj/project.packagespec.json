@@ -1,0 +1,88 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core.Tests/Core.Tests.csproj",
+    "projectName": "Core.Tests",
+    "projectPath": "/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core.Tests/Core.Tests.csproj",
+    "outputPath": "/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/Core.csproj": {
+            "projectPath": "/Users/HES8493/workspace/contractor-finder-api/EF-update-dto/Core/Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AgileObjects.AgileMapper": {
+          "target": "Package",
+          "version": "[1.5.0, )"
+        },
+        "AutoFixture": {
+          "target": "Package",
+          "version": "[4.11.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Serilog.Extensions.Logging": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        },
+        "Serilog.Sinks.Console": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        },
+        "Xbehave": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview3-014645/RuntimeIdentifierGraph.json"
+    }
+  }
+}
